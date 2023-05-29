@@ -71,9 +71,7 @@ header img {
     position: absolute;
     top: 100%;
 }
-#nav_menu ul ul li {
-	
-}
+
 #nav_menu ul li:hover > ul {
 	display: block;
 }
